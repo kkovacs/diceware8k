@@ -1,6 +1,6 @@
 # diceware8k
 
-Simple tool to generate secure passwords offline from the diceware8k word list.
+Simple tool to generate secure passwords offline from the diceware8k word list, using Go's cryptography-grade random.
 
 The word list is at: http://world.std.com/~reinhold/dicewarefaq.html#diceware8k
 
