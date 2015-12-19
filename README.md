@@ -7,3 +7,9 @@ The word list is at: http://world.std.com/~reinhold/dicewarefaq.html#diceware8k
 If you have Go installed, run it with:
 
 	go run diceware8k.go
+
+If you don't have Go, you can download the binaries directly -- given that you trust both me and Github ;)
+
+- MAC OS X: https://github.com/kkovacs/diceware8k/raw/master/diceware8k-mac
+- Windows: https://github.com/kkovacs/diceware8k/raw/master/diceware8k-win.exe
+- ARM (Android): https://github.com/kkovacs/diceware8k/raw/master/diceware8k-arm
