@@ -8,7 +8,7 @@ If you **have Go installed**, run it with:
 
 	go run diceware8k.go <number-of-words>
 	
-Where <number-of-words> is optional and defaults to six, as recommended by Mr. Reinhold at http://world.std.com/~reinhold/dicewarefaq.html#howlong
+Where `<number-of-words>` is optional and defaults to six, as recommended by Mr. Reinhold at http://world.std.com/~reinhold/dicewarefaq.html#howlong
 
 If you **don't have Go installed**, you can download the standalone binaries -- given that you trust both me and Github ;)
 
