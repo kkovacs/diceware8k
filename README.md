@@ -4,11 +4,13 @@ Simple tool to generate secure passwords offline from the diceware8k word list.
 
 The word list is at: http://world.std.com/~reinhold/dicewarefaq.html#diceware8k
 
-If you have Go installed, run it with:
+If you **have Go installed**, run it with:
 
-	go run diceware8k.go
+	go run diceware8k.go <number-of-words>
+	
+Where <number-of-words> is optional and defaults to six, as recommended by Mr. Reinhold at http://world.std.com/~reinhold/dicewarefaq.html#howlong
 
-If you don't have Go, you can download the binaries directly -- given that you trust both me and Github ;)
+If you **don't have Go installed**, you can download the standalone binaries -- given that you trust both me and Github ;)
 
 - Linux 32 bit: https://github.com/kkovacs/diceware8k/raw/master/diceware8k-linux-i386
 - Linux 64 bit: https://github.com/kkovacs/diceware8k/raw/master/diceware8k-linux-amd64
